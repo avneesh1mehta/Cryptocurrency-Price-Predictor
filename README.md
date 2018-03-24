@@ -1,5 +1,5 @@
 # Cryptocurrency-Price-Predictor
-Analyze cryptocurrency time-series data and make price predictions. Below is the model for Ethereum with predictions for 3/25/18 - 3/27/18 as of 3/24/18 (See notebook for specific values).
+Analyze cryptocurrency time-series data and make price predictions. Below is the model for Ethereum with predictions for the next 15 days as of 3/24/18 (See notebook comments for specific values and caveats).
 ![picture](ether_prediction.png)
 
 # Features
